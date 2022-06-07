@@ -1,5 +1,3 @@
-library device_binding;
-
 import 'security_keys.dart';
 
 //For Testing Purpose
